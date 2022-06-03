@@ -1,0 +1,8 @@
+body {
+    background: rgb(248, 161, 161) url("desafio/imagemfundo.jpg");
+    font: 16px arial, Helvetica, sans-serif;
+}
+
+#principal {
+    border: 1px solid yellow;
+}
