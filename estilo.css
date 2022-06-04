@@ -12,10 +12,23 @@ body {
     padding: 18px;
 }
 
+#conteudo {
+    background: red(218, 59, 59);
+    padding: 10px;
+}
+
 a {
     color: black;
     text-decoration: none;
     font-weight: bold;
     padding: 5px;
+}
+
+.texto {
+    text-align: justify;
+}
+
+.imagem {
+    margin-right: 30px;
 }
 
