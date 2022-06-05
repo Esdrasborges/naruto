@@ -1,5 +1,5 @@
 body {
-    background: rgb(248, 161, 161);
+    background: rgb(245, 184, 72);
     font: 16px arial, Helvetica, sans-serif;
 }
 
@@ -8,7 +8,7 @@ body {
 }
 
 #menu {
-    background: rgb(218, 59, 59);
+    background: orangered;
     padding: 18px;
 }
 
